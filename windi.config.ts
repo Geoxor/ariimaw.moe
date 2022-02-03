@@ -5,7 +5,7 @@ export default defineConfig({
     colors: {
       ...colors,
       main: {
-        400: "#212121",
+        400: "#fc96ff",
       },
     },
   },

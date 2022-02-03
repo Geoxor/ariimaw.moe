@@ -1,0 +1,24 @@
+{
+  "name": "africa-couch",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc --noEmit && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.2.25",
+    "vue-router": "^4.0.11"
+  },
+  "devDependencies": {
+    "@vueuse/core": "^7.5.3",
+    "@vitejs/plugin-vue": "^2.0.0",
+    "typescript": "^4.4.4",
+    "unplugin-icons": "^0.13.0",
+    "unplugin-vue-components": "^0.17.11",
+    "vite": "^2.7.2",
+    "vite-plugin-windicss": "^1.6.2",
+    "vue-tsc": "^0.29.8",
+    "windicss": "^3.4.2"
+  }
+}

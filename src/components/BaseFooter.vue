@@ -1,6 +1,6 @@
 <template>
   <footer class="flex h-16 w-full bg-opacity-50 filter backdrop-blur-3xl z-40">
-    <ul class="flex justify-center items-center w-full">
+    <ul class="flex justify-center items-center w-full text-2xl">
       <social-button link="https://www.instagram.com/ariimaw/">
         <i-fluency-instagram />
       </social-button>
